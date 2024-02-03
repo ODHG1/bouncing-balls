@@ -1,5 +1,8 @@
 # bouncing-balls
 This script lets you make the viral Tiktok bouncing balls videos! 
+
+# IF THERE IS NO SCRIPT FILE IN THE REPOSITORY, THE SCRIPT HASN'T BEEN MADE PUBLIC YET (if you're in a hurry just order from my fiverr)
+
 Hello there! 
 Welcome to Ballz (haha), anyways, yep, this is the Bouncing balls script.
 I made it myself (ODHG1), and if you got this you probably bought it from me on fiverr (https://fiverr.com/odhg1_) or waited until it got put onto Github.
